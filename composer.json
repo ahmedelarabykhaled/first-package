@@ -1,6 +1,6 @@
 {
     "name": "ahmedelarabykhaled/first-package",
-    "type": "library",
+    "type": "package",
     "version": "1.0.0",
     "license": "MIT",
     "description": "my first package ",
