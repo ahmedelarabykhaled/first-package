@@ -1,0 +1,19 @@
+{
+    "name": "root/first-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Root\\FirstPackage\\": "src/"
+        },
+        "files": [
+            "src/Helpers/MainHelper.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "ahmedelarabykhaled",
+            "email": "ahmedelarabykhaled2020@yahoo.com"
+        }
+    ],
+    "require": {}
+}
