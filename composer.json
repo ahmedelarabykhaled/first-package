@@ -1,6 +1,8 @@
 {
     "name": "ahmedelarabykhaled/first-package",
     "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
     "description": "my first package ",
     "autoload": {
         "psr-4": {
